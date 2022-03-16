@@ -1,0 +1,1 @@
+First try of task manager, using a template front-end
