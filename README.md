@@ -1,1 +1,1 @@
-First try of task manager using a RESY API, using a template front-end 
+First try of task manager using a REST API, using a template front-end 
